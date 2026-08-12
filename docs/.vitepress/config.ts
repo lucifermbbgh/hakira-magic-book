@@ -17,12 +17,12 @@ export default defineConfig({
                 items: [
                     {
                         text: '用户管理',
-                        link: '/elysia/market/user/用户管理.md',
+                        link: '/hakira/market/user/用户管理.md',
                         items: [
-                            {text: '用户信息维护', link: '/elysia/market/user/用户信息维护.md'},
-                            {text: '用户注册', link: '/elysia/market/user/用户注册.md'},
-                            {text: '用户注销', link: '/elysia/market/user/用户注销.md'},
-                            {text: '用户重置密码', link: '/elysia/market/user/用户重置密码.md'}
+                            {text: '用户信息维护', link: '/hakira/market/user/用户信息维护.md'},
+                            {text: '用户注册', link: '/hakira/market/user/用户注册.md'},
+                            {text: '用户注销', link: '/hakira/market/user/用户注销.md'},
+                            {text: '用户重置密码', link: '/hakira/market/user/用户重置密码.md'}
                         ]
                     },
                 ]
