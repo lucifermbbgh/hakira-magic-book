@@ -12,13 +12,17 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.5.41"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
-    "typescript": "^5.2.2",
-    "vite": "^5.2.0",
-    "vitepress": "^1.1.4",
-    "vue-tsc": "^2.0.6"
+    "@vitejs/plugin-vue": "^6.0.8",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.3",
+    "vitepress": "^1.6.4",
+    "vue-tsc": "^2.2.12"
+  },
+  "overrides": {
+    "esbuild": "^0.25.12",
+    "vite": "^6.4.3"
   }
 }
