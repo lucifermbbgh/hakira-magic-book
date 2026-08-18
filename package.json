@@ -1,25 +1,15 @@
 {
-  "name": "magica",
+  "name": "hakira-magic-book",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vue-tsc && vite build",
-    "preview": "vite preview",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "dependencies": {
-    "vue": "^3.5.41"
-  },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.8",
-    "typescript": "^5.9.3",
-    "vite": "^6.4.3",
-    "vitepress": "^1.6.4",
-    "vue-tsc": "^2.2.12"
+    "vitepress": "^1.6.4"
   },
   "overrides": {
     "esbuild": "^0.25.12",
