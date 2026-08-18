@@ -708,3 +708,11 @@ STTResult 构造 + 返回
 > **文档版本**: 1.0
 > **对应提交**: `93e9577` — Phase 2: STT 模块骨架 + 设计文档
 > **下一阶段**: 测试验证 → Phase 2 Step 2 模型下载与缓存策略
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-2-STT 方案设计](./PHASE-2-STT-DESIGN.md)
+- [→ PHASE-2-STT 测试报告](./PHASE-2-STT-TEST-REPORT.md)

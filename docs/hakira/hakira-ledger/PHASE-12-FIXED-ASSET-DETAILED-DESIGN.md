@@ -54,3 +54,11 @@
 
 4. **折旧表字段覆盖**：`/asset/list` 返回原值/累计折旧/净值，已覆盖固定资产折旧表
    的核心字段（月折旧额可由原值×折旧率推导）。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-12-FIXED-ASSET 方案设计](./PHASE-12-FIXED-ASSET-DESIGN.md)
+- [→ PHASE-12-FIXED-ASSET 测试报告](./PHASE-12-FIXED-ASSET-TEST-REPORT.md)

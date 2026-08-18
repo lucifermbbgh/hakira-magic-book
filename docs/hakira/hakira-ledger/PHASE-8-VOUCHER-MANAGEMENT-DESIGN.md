@@ -91,3 +91,11 @@ POSTED ──作废──> VOID(已作废)
 | 跨服务调用 | entry 通过 OpenFeign/RestTemplate 调 workflow 启动审批流 |
 | 审批回调 | 审批通过/驳回回调 entry 更新凭证状态 |
 | BPMN 流程定义 | 定义凭证审批流程 |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-8-VOUCHER-MANAGEMENT 详细设计](./PHASE-8-VOUCHER-MANAGEMENT-DETAILED-DESIGN.md)
+- [→ PHASE-8-VOUCHER-MANAGEMENT 测试报告](./PHASE-8-VOUCHER-MANAGEMENT-TEST-REPORT.md)

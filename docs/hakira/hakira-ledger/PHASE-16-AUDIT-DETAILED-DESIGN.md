@@ -50,3 +50,11 @@ journal_entry（凭证头）
 
 3. **RBAC 权限 / 多租户标记后续**：需跨服务（auth 网关 + 数据隔离），本阶段聚焦
    审计追溯，权限细化与多租户后续单独做。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-16-AUDIT 方案设计](./PHASE-16-AUDIT-DESIGN.md)
+- [→ PHASE-16-AUDIT 测试报告](./PHASE-16-AUDIT-TEST-REPORT.md)

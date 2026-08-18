@@ -11,6 +11,15 @@ node_modules
 dist
 dist-ssr
 *.local
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# VitePress
+**/.vitepress/cache/
+**/.vitepress/dist/
 
 # Editor directories and files
 .vscode/*

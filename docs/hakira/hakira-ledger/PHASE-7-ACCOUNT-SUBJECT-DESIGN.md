@@ -110,3 +110,11 @@
 1. **科目范围**：预置完整一级科目（约 80 个）够吗？还是需要更细的明细科目（二级/三级）？
 2. **辅助核算维度**：部门/项目/客户/供应商/现金流量这 5 个维度够吗？是否要加其他（如成本中心、员工）？
 3. **关联方式**：分录行挂多维度（关联表）认可吗？还是简化成固定字段？
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-7-ACCOUNT-SUBJECT 详细设计](./PHASE-7-ACCOUNT-SUBJECT-DETAILED-DESIGN.md)
+- [→ PHASE-7-ACCOUNT-SUBJECT 测试报告](./PHASE-7-ACCOUNT-SUBJECT-TEST-REPORT.md)

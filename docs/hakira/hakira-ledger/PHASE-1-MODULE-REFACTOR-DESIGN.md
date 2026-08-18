@@ -61,3 +61,11 @@ hakira-ledger-workflow──> hakira-common, hakira-ledger-api
 - [x] gateway/auth 分离，路由 + JWT 可跑通
 - [x] RocketMQ 独立模块，自动装配生效
 - [x] JDK 21 下 Lombok 编译无警告
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-1-MODULE-REFACTOR 详细设计](./PHASE-1-MODULE-REFACTOR-DETAILED-DESIGN.md)
+- [→ PHASE-1-MODULE-REFACTOR 测试报告](./PHASE-1-MODULE-REFACTOR-TEST-REPORT.md)

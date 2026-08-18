@@ -122,3 +122,11 @@ WHERE item_code = ? AND version = ?;   -- version 不匹配 → 影响行数 0 �
 | mybatis-spring 与 Spring 6.1 不兼容（factoryBeanObjectType） | 显式 mybatis-spring 3.0.3 |
 | mybatis 配置写在 spring.mybatis 下 | 移到顶层 mybatis（map-underscore-to-camel-case 才生效） |
 | auth 冷启动首次登录慢 | Druid/MyBatis 连接池未就绪，非 bug |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-5-PERSISTENCE-OPTIMIZATION 方案设计](./PHASE-5-PERSISTENCE-OPTIMIZATION-DESIGN.md)
+- [→ PHASE-5-PERSISTENCE-OPTIMIZATION 测试报告](./PHASE-5-PERSISTENCE-OPTIMIZATION-TEST-REPORT.md)

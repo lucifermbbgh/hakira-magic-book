@@ -74,3 +74,11 @@
 
 见 PHASE-11-COST-ACCOUNTING-TEST-REPORT.md：录入料工费归集分录 → 制造费用分配 →
 成本计算单（DM+DL+MO=总成本）。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-11-COST-ACCOUNTING 详细设计](./PHASE-11-COST-ACCOUNTING-DETAILED-DESIGN.md)
+- [→ PHASE-11-COST-ACCOUNTING 测试报告](./PHASE-11-COST-ACCOUNTING-TEST-REPORT.md)

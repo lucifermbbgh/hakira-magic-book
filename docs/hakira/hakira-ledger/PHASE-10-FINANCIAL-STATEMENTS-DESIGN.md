@@ -97,3 +97,11 @@
 | 固定资产折旧表 | 专项 | /asset/list + /asset/{code} | ✅ 已完成（Phase 12） |
 | 往来账龄分析表 | 专项 | /aging/receivable + /aging/payable | ✅ 已完成（Phase 13） |
 | 存货收发存报表 | 专项 | /stock/movements + /stock/snapshot | ✅ 已完成（Phase 14） |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-10-FINANCIAL-STATEMENTS 详细设计](./PHASE-10-FINANCIAL-STATEMENTS-DETAILED-DESIGN.md)
+- [→ PHASE-10-FINANCIAL-STATEMENTS 测试报告](./PHASE-10-FINANCIAL-STATEMENTS-TEST-REPORT.md)

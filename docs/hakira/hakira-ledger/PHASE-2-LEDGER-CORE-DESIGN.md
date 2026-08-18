@@ -58,3 +58,11 @@
 - [x] 借贷平衡校验生效（不平衡拒绝）
 - [x] 库存入出库 + 快照 + 流水可用
 - [x] 超量出库拒绝
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-2-LEDGER-CORE 详细设计](./PHASE-2-LEDGER-CORE-DETAILED-DESIGN.md)
+- [→ PHASE-2-LEDGER-CORE 测试报告](./PHASE-2-LEDGER-CORE-TEST-REPORT.md)

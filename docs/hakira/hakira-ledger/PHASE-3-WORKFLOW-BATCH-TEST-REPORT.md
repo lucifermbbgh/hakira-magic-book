@@ -38,3 +38,11 @@
 ## 五、结论
 
 Phase 3 审批流 + 批处理框架搭建完成，Flowable 审批链路与 Quartz + Spring Batch 对账任务可跑通。具体审批流程定义与对账规则留待业务阶段细化。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-3-WORKFLOW-BATCH 方案设计](./PHASE-3-WORKFLOW-BATCH-DESIGN.md)
+- [← PHASE-3-WORKFLOW-BATCH 详细设计](./PHASE-3-WORKFLOW-BATCH-DETAILED-DESIGN.md)

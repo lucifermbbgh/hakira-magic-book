@@ -102,3 +102,11 @@ POST /login → DBUserManager（@Component 查 hakira_user）
     → PasswordEncoder 匹配（本阶段 NoOpPasswordEncoder）
     → 签发 JWT → gateway 校验 → 放行/401
 ```
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-4-INFRA-DEPLOYMENT 方案设计](./PHASE-4-INFRA-DEPLOYMENT-DESIGN.md)
+- [→ PHASE-4-INFRA-DEPLOYMENT 测试报告](./PHASE-4-INFRA-DEPLOYMENT-TEST-REPORT.md)

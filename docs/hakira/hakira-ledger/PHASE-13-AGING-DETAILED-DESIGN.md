@@ -53,3 +53,11 @@
 
 3. **往来单位复用辅助核算框架**：CUSTOMER/SUPPLIER 维度复用 Phase 7 框架，
    与 CASH_FLOW（现金流）、COST_ITEM（成本）同构，验证了辅助核算的多场景扩展性。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-13-AGING 方案设计](./PHASE-13-AGING-DESIGN.md)
+- [→ PHASE-13-AGING 测试报告](./PHASE-13-AGING-TEST-REPORT.md)

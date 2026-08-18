@@ -132,3 +132,28 @@ docker-compose -f file/docker-compose.yml up -d
 |------|------|------|
 | 2.0.4 | `release` (锁定) | market 电商命名时期，已存档 |
 | 3.0.0 | `release-202608-remake` | ledger 会计账簿架构重构 |
+
+---
+
+## 🔗 文档索引
+
+<!-- lineage-auto -->
+- [🏛 总体架构](./ARCHITECTURE.md)
+- [🗺 开发路线图](./ROADMAP.md)
+- [🔌 接口文档](./API-DOCUMENT.md)
+- [PHASE-1-MODULE-REFACTOR · 模块架构重构](./PHASE-1-MODULE-REFACTOR-DESIGN.md)
+- [PHASE-10-FINANCIAL-STATEMENTS · 财务报表体系（三大报表）](./PHASE-10-FINANCIAL-STATEMENTS-DESIGN.md)
+- [PHASE-11-COST-ACCOUNTING · 成本核算](./PHASE-11-COST-ACCOUNTING-DESIGN.md)
+- [PHASE-12-FIXED-ASSET · 固定资产管理](./PHASE-12-FIXED-ASSET-DESIGN.md)
+- [PHASE-13-AGING · 应收应付与往来账龄](./PHASE-13-AGING-DESIGN.md)
+- [PHASE-14-INVENTORY · 存货核算与计价](./PHASE-14-INVENTORY-DESIGN.md)
+- [PHASE-15-BUDGET · 预算管理](./PHASE-15-BUDGET-DESIGN.md)
+- [PHASE-16-AUDIT · 审计合规与系统治理](./PHASE-16-AUDIT-DESIGN.md)
+- [PHASE-2-LEDGER-CORE · 会计复式记账核心业务](./PHASE-2-LEDGER-CORE-DESIGN.md)
+- [PHASE-3-WORKFLOW-BATCH · 审批流与批处理](./PHASE-3-WORKFLOW-BATCH-DESIGN.md)
+- [PHASE-4-INFRA-DEPLOYMENT · 基础设施部署与冒烟测试](./PHASE-4-INFRA-DEPLOYMENT-DESIGN.md)
+- [PHASE-5-PERSISTENCE-OPTIMIZATION · 数据持久化与安全优化](./PHASE-5-PERSISTENCE-OPTIMIZATION-DESIGN.md)
+- [PHASE-6-BIG-DATA · 大数据分析层](./PHASE-6-BIG-DATA-DESIGN.md)
+- [PHASE-7-ACCOUNT-SUBJECT · 会计科目与辅助核算体系](./PHASE-7-ACCOUNT-SUBJECT-DESIGN.md)
+- [PHASE-8-VOUCHER-MANAGEMENT · 凭证管理深化](./PHASE-8-VOUCHER-MANAGEMENT-DESIGN.md)
+- [PHASE-9-PERIOD-END-CLOSING · 期末结账与账务结转](./PHASE-9-PERIOD-END-CLOSING-DESIGN.md)

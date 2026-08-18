@@ -155,3 +155,11 @@ docker exec hakira_ledger_flink_jobmanager flink run \
 2. ~~编写自定义 Flink 流式作业~~ ✅ 已完成（socket 流式统计，见 4.1）
 3. flink/spark Spring Boot 服务通过客户端 API 提交作业到集群（替代手动提交）
 4. 作业脚本固化到项目（当前为 /tmp 临时验证脚本）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-6-BIG-DATA 方案设计](./PHASE-6-BIG-DATA-DESIGN.md)
+- [→ PHASE-6-BIG-DATA 测试报告](./PHASE-6-BIG-DATA-TEST-REPORT.md)

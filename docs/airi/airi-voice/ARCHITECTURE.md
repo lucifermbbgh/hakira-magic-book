@@ -747,3 +747,13 @@ def load_model(self):
 > **文档维护者：** Claude Code (via MCP 对话自动记忆系统)
 > **最后更新：** 2026-07-22
 > **关联线程：** AIRI 语音模块设计 (TTS/STT)
+
+---
+
+## 🔗 各阶段设计文档
+
+<!-- lineage-auto -->
+- [PHASE-1-VAD · VAD](./PHASE-1-VAD-DESIGN.md)
+- [PHASE-2-STT · STT (Speech-to-Text)](./PHASE-2-STT-DESIGN.md)
+- [PHASE-3-TTS · TTS (Text-to-Speech)](./PHASE-3-TTS-DESIGN.md)
+- [PHASE-4-LLM · LLM 对话集成](./PHASE-4-LLM-DESIGN.md)

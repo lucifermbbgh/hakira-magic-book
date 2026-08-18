@@ -195,3 +195,11 @@ Phase 4 (本阶段)
 ---
 
 > **下一步**: 完成单元测试，提交到 GitHub，等待 Windows 环境跑端到端验证。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-4-LLM 详细设计](./PHASE-4-LLM-DETAILED-DESIGN.md)
+- [→ PHASE-4-LLM 测试报告](./PHASE-4-LLM-TEST-REPORT.md)

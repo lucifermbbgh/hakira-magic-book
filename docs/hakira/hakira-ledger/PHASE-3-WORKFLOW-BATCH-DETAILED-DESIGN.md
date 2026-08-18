@@ -84,3 +84,11 @@ Spring Batch 批量处理（读取分录/库存数据，核对一致性）
 | Batch | 对账任务读分录流水，校验借贷平衡与库存一致性 |
 
 > 注：Phase 3 为框架搭建，具体审批流程定义和对账规则在后续业务阶段细化。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-3-WORKFLOW-BATCH 方案设计](./PHASE-3-WORKFLOW-BATCH-DESIGN.md)
+- [→ PHASE-3-WORKFLOW-BATCH 测试报告](./PHASE-3-WORKFLOW-BATCH-TEST-REPORT.md)

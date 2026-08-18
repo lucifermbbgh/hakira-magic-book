@@ -358,3 +358,11 @@ CosyVoice 2 合成 → AudioPlayback 播放 → 扬声器 🔊
 **共性结论**：Python 3.13 早期生态环境不成熟，多数问题源于「无预编译 wheel 导致
 源码编译失败」和「CosyVoice 无 setup.py 需手动注入路径」。最终通过放宽版本 pin
 （用有 cp313 wheel 的版本）+ `.pth` 路径注入解决。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-3-TTS 方案设计](./PHASE-3-TTS-DESIGN.md)
+- [← PHASE-3-TTS 详细设计](./PHASE-3-TTS-DETAILED-DESIGN.md)

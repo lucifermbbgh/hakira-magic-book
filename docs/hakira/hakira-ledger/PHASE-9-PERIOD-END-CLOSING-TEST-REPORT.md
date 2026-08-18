@@ -58,3 +58,11 @@
 | 分区裁剪 | 聚合查询带 `entry_date` 范围 | 命中按月 RANGE 分区 ✅ |
 | 期间锁定 | accounting_period 乐观锁 + 状态机 | CLOSED 期间录入 1009、乱序 1010 ✅ |
 | 结转幂等 | countTransferEntries 检查 | 重复结转 1010 ✅ |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-9-PERIOD-END-CLOSING 方案设计](./PHASE-9-PERIOD-END-CLOSING-DESIGN.md)
+- [← PHASE-9-PERIOD-END-CLOSING 详细设计](./PHASE-9-PERIOD-END-CLOSING-DETAILED-DESIGN.md)

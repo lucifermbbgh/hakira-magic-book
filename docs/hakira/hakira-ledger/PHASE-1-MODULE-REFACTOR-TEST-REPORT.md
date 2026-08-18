@@ -42,3 +42,11 @@
 ## 五、结论
 
 Phase 1 模块架构重构完成，13 模块结构确立，编译通过，网关 + JWT 认证链路可跑通，为 Phase 2 会计核心业务开发奠定基础。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-1-MODULE-REFACTOR 方案设计](./PHASE-1-MODULE-REFACTOR-DESIGN.md)
+- [← PHASE-1-MODULE-REFACTOR 详细设计](./PHASE-1-MODULE-REFACTOR-DETAILED-DESIGN.md)

@@ -55,3 +55,11 @@
 - **现金流量表 = CASH_FLOW 辅助核算聚合**（Phase 7 的辅助核算维度产出报表）✅
 
 三大报表分别验证了 Phase 7（辅助核算）、Phase 9（余额物化）的承上启下价值。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-10-FINANCIAL-STATEMENTS 方案设计](./PHASE-10-FINANCIAL-STATEMENTS-DESIGN.md)
+- [← PHASE-10-FINANCIAL-STATEMENTS 详细设计](./PHASE-10-FINANCIAL-STATEMENTS-DETAILED-DESIGN.md)

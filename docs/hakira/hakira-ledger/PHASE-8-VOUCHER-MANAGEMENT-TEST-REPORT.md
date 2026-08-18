@@ -40,3 +40,11 @@
 ## 五、结论
 
 Phase 8 凭证管理深化完成：凭证号自动编号（PZ-YYYYMMDD-NNN）、冲销（反向分录 + 辅助核算复制 + 乐观锁）、状态机（POSTED/REVERSED）。审核流对接 Flowable、VOID 作废、DRAFT 草稿留待后续阶段。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-8-VOUCHER-MANAGEMENT 方案设计](./PHASE-8-VOUCHER-MANAGEMENT-DESIGN.md)
+- [← PHASE-8-VOUCHER-MANAGEMENT 详细设计](./PHASE-8-VOUCHER-MANAGEMENT-DETAILED-DESIGN.md)

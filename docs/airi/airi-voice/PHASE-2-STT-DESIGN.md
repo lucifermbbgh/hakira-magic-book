@@ -487,3 +487,11 @@ class STTConfig:
 ---
 
 > **下一步**: 完成设计评审后，开始 Step 1 — 实现 `FasterWhisperSTT` 核心类。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-2-STT 详细设计](./PHASE-2-STT-DETAILED-DESIGN.md)
+- [→ PHASE-2-STT 测试报告](./PHASE-2-STT-TEST-REPORT.md)

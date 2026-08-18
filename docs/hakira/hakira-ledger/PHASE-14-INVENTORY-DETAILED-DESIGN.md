@@ -50,3 +50,11 @@
 
 4. **出库成本结转凭证未接**：出库成本已计算，但生成结转凭证（借 6401/贷 1405）
    需跨服务调 entry，本阶段先记录成本，凭证生成后续补充。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-14-INVENTORY 方案设计](./PHASE-14-INVENTORY-DESIGN.md)
+- [→ PHASE-14-INVENTORY 测试报告](./PHASE-14-INVENTORY-TEST-REPORT.md)

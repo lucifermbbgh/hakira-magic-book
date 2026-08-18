@@ -114,3 +114,14 @@ tests/
 ## 许可证
 
 MIT
+
+---
+
+## 🔗 文档索引
+
+<!-- lineage-auto -->
+- [🏛 总体架构](./ARCHITECTURE.md)
+- [PHASE-1-VAD · VAD](./PHASE-1-VAD-DESIGN.md)
+- [PHASE-2-STT · STT (Speech-to-Text)](./PHASE-2-STT-DESIGN.md)
+- [PHASE-3-TTS · TTS (Text-to-Speech)](./PHASE-3-TTS-DESIGN.md)
+- [PHASE-4-LLM · LLM 对话集成](./PHASE-4-LLM-DESIGN.md)

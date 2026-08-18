@@ -225,3 +225,11 @@ Phase 4 对 `_run_full()` 的六项增强：
 | Windows | conversation 21/21 + 全量 193 + STT 67/67 + VAD 9/9 |
 
 全链路端到端（`_run_full()` 真实 AIRI 交互）待 Phase 1 VAD 阻塞解决后执行。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-4-LLM 方案设计](./PHASE-4-LLM-DESIGN.md)
+- [→ PHASE-4-LLM 测试报告](./PHASE-4-LLM-TEST-REPORT.md)

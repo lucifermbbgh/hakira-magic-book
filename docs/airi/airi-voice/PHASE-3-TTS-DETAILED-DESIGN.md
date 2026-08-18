@@ -362,3 +362,11 @@ onnxruntime-gpu 版本优化。
 
 `_resample` 用 numpy 线性插值而非 scipy.signal.resample_poly，避免 playback.py 引入 scipy
 硬依赖。线性插值对 24000→44100 的语音播放质量足够，产品化阶段可换高质量重采样。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-3-TTS 方案设计](./PHASE-3-TTS-DESIGN.md)
+- [→ PHASE-3-TTS 测试报告](./PHASE-3-TTS-TEST-REPORT.md)

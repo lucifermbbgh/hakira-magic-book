@@ -108,3 +108,11 @@
 - [x] 坏账收回接口（`/baddebt/recover`，两步分录）
 - [x] 坏账准备余额查询（复用科目余额表 /closing/balance 可查 1231）
 - [ ] 计提比例配置化（当前硬编码，后续可改配置表）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-13-AGING 详细设计](./PHASE-13-AGING-DETAILED-DESIGN.md)
+- [→ PHASE-13-AGING 测试报告](./PHASE-13-AGING-TEST-REPORT.md)

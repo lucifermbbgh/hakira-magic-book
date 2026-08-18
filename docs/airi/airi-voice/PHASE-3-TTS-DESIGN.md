@@ -554,3 +554,11 @@ test_tts_integration.py
 
 > **文档版本**: 1.0 (2026-07-24)
 > **下一步**: 设计评审 → Step 1: 实现 TTS 接口抽象
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-3-TTS 详细设计](./PHASE-3-TTS-DETAILED-DESIGN.md)
+- [→ PHASE-3-TTS 测试报告](./PHASE-3-TTS-TEST-REPORT.md)

@@ -79,3 +79,11 @@ POST /entry/reverse/{entryId}
 | 审核流 | 对接 Phase 3 Flowable（提交/通过/驳回），后续单独做 |
 | VOID 作废 | 预留状态，作废接口后续补 |
 | DRAFT 草稿 | 配合审核流实现 |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-8-VOUCHER-MANAGEMENT 方案设计](./PHASE-8-VOUCHER-MANAGEMENT-DESIGN.md)
+- [→ PHASE-8-VOUCHER-MANAGEMENT 测试报告](./PHASE-8-VOUCHER-MANAGEMENT-TEST-REPORT.md)

@@ -46,3 +46,11 @@
 1. **费用/收入双向差异**：费用超支（+200）与收入未达标（-2000）均正确识别。
 2. **执行监控 vs 差异分析**：query 返回全量（含结余），variance 只返回超支/未达标科目。
 3. **实际发生额方向归约**：D 科目 = 借−贷，C 科目 = 贷−借，方向正确。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-15-BUDGET 方案设计](./PHASE-15-BUDGET-DESIGN.md)
+- [← PHASE-15-BUDGET 详细设计](./PHASE-15-BUDGET-DETAILED-DESIGN.md)

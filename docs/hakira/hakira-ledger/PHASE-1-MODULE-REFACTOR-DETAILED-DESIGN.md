@@ -67,3 +67,11 @@ POST /login → UsernamePasswordAuthenticationFilter
 | 端口段 | 90xx | gateway 9000 / auth 9010 / entry 9020 / stock 9030 |
 | 服务名 | hakira-ledger-* | 与模块名一致 |
 | context-path | 不设 | 由 gateway 统一路由 |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-1-MODULE-REFACTOR 方案设计](./PHASE-1-MODULE-REFACTOR-DESIGN.md)
+- [→ PHASE-1-MODULE-REFACTOR 测试报告](./PHASE-1-MODULE-REFACTOR-TEST-REPORT.md)

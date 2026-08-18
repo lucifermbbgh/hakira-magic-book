@@ -45,3 +45,11 @@
 ## 五、结论
 
 Phase 7 会计科目与辅助核算体系完成：科目从 21 个核心扩展到 78 个完整一级科目（含层级），新增辅助核算 3 张表（维度/值/关联），分录录入支持挂辅助核算维度并校验合法性（1006/1007）。为后续结账、报表、成本核算等阶段提供了科目与核算地基。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-7-ACCOUNT-SUBJECT 方案设计](./PHASE-7-ACCOUNT-SUBJECT-DESIGN.md)
+- [← PHASE-7-ACCOUNT-SUBJECT 详细设计](./PHASE-7-ACCOUNT-SUBJECT-DETAILED-DESIGN.md)

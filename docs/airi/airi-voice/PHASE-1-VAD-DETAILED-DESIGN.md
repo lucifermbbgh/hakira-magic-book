@@ -259,3 +259,11 @@ VAD 检测在 capture_loop 内联执行（逐帧），语音事件通过回调�
 1. 禁用音频增强：`mmsys.cpl` → 录制 → 麦克风属性 → 增强 → 全部禁用
 2. 外接 USB 麦克风（绕过 Realtek 声卡，推荐）
 3. VAD 前加高通滤波（代码层，效果有限，DSP 已造成信息丢失）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-1-VAD 方案设计](./PHASE-1-VAD-DESIGN.md)
+- [→ PHASE-1-VAD 测试报告](./PHASE-1-VAD-TEST-REPORT.md)

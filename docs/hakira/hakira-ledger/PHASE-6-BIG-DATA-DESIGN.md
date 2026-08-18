@@ -102,3 +102,11 @@
 - [x] Spark 对账作业跑通（能读 MySQL 校验平衡）
 - [x] Flink 流式作业跑通
 - [x] 搭建过程记录到详细设计文档
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-6-BIG-DATA 详细设计](./PHASE-6-BIG-DATA-DETAILED-DESIGN.md)
+- [→ PHASE-6-BIG-DATA 测试报告](./PHASE-6-BIG-DATA-TEST-REPORT.md)

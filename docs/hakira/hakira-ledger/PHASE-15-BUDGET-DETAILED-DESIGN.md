@@ -46,3 +46,11 @@ query 结果过滤 `overBudget=true` 的科目：
 
 3. **差异方向区分**：费用类超支（差异>0）与收入类未达标（差异<0）是两个方向，
    统一用 `overBudget` 布尔标识，前端据此提示。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-15-BUDGET 方案设计](./PHASE-15-BUDGET-DESIGN.md)
+- [→ PHASE-15-BUDGET 测试报告](./PHASE-15-BUDGET-TEST-REPORT.md)

@@ -57,3 +57,11 @@
 - [x] 审批流发起/查询/完成可用
 - [x] 对账任务可手动触发
 - [x] Quartz 定时调度 + Batch 批处理集成
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-3-WORKFLOW-BATCH 详细设计](./PHASE-3-WORKFLOW-BATCH-DETAILED-DESIGN.md)
+- [→ PHASE-3-WORKFLOW-BATCH 测试报告](./PHASE-3-WORKFLOW-BATCH-TEST-REPORT.md)

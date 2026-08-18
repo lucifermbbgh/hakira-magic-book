@@ -53,3 +53,11 @@
 - [x] BCrypt 登录成功（哈希密码匹配）
 - [x] 分录/库存持久化 DB，重启数据不丢
 - [x] 分录科目合法性校验（科目须在科目表存在）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-5-PERSISTENCE-OPTIMIZATION 详细设计](./PHASE-5-PERSISTENCE-OPTIMIZATION-DETAILED-DESIGN.md)
+- [→ PHASE-5-PERSISTENCE-OPTIMIZATION 测试报告](./PHASE-5-PERSISTENCE-OPTIMIZATION-TEST-REPORT.md)

@@ -69,3 +69,11 @@ StockSnapshotResponse { itemCode; itemName; currentQuantity; unit; lastUpdateTim
 | 状态字段 | 分录 status=POSTED，Phase 5 扩展为完整状态机 |
 
 > 注：本阶段为内存存储，重启数据丢失；Phase 5 换成 MySQL 分区表持久化。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-2-LEDGER-CORE 方案设计](./PHASE-2-LEDGER-CORE-DESIGN.md)
+- [→ PHASE-2-LEDGER-CORE 测试报告](./PHASE-2-LEDGER-CORE-TEST-REPORT.md)

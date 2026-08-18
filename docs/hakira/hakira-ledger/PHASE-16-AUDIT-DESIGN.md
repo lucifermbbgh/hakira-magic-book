@@ -86,3 +86,11 @@ journal_entry（凭证头）
 |----|------|---------|
 | RBAC 权限 | 用户-角色-权限模型 + auth 服务扩展 + 接口鉴权 | auth + gateway + 各服务注解 |
 | 多租户隔离 | 所有业务表加 tenant_id + 查询过滤 | 全模块 Mapper 改造 |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-16-AUDIT 详细设计](./PHASE-16-AUDIT-DETAILED-DESIGN.md)
+- [→ PHASE-16-AUDIT 测试报告](./PHASE-16-AUDIT-TEST-REPORT.md)

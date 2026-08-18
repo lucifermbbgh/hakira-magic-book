@@ -85,3 +85,11 @@
 
 见 PHASE-14-INVENTORY-TEST-REPORT.md：入库两次不同单价 → 加权平均单价更新 →
 出库成本计算 → 盘点盘盈盘亏。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-14-INVENTORY 详细设计](./PHASE-14-INVENTORY-DETAILED-DESIGN.md)
+- [→ PHASE-14-INVENTORY 测试报告](./PHASE-14-INVENTORY-TEST-REPORT.md)

@@ -332,3 +332,11 @@ python -m tests.test_mic_level
 584b64c docs: 更新 requirements.txt 注释说明
 3bdcd67 feat: initial AIRI Voice Module - Phase 1
 ```
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-1-VAD 方案设计](./PHASE-1-VAD-DESIGN.md)
+- [← PHASE-1-VAD 详细设计](./PHASE-1-VAD-DETAILED-DESIGN.md)

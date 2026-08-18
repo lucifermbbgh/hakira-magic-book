@@ -81,3 +81,11 @@ OPEN ──close──> CLOSING ──完成──> CLOSED
 
 5. **聚合下推 + 分区裁剪**：所有余额/结转聚合均 `SUM GROUP BY` + `entry_date` 范围，
    命中按月分区，避免全表扫描和应用层累加。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-9-PERIOD-END-CLOSING 方案设计](./PHASE-9-PERIOD-END-CLOSING-DESIGN.md)
+- [→ PHASE-9-PERIOD-END-CLOSING 测试报告](./PHASE-9-PERIOD-END-CLOSING-TEST-REPORT.md)

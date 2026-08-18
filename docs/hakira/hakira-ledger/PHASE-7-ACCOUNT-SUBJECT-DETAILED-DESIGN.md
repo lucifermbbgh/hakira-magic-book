@@ -93,3 +93,11 @@ for each aux：
 ## 四、SQL 文件
 
 `file/phase7_subject_aux.sql`（幂等，可重复执行）：扩展科目表 + 预置 78 一级科目 + 4 明细 + 建 3 张辅助核算表 + 预置维度/值。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-7-ACCOUNT-SUBJECT 方案设计](./PHASE-7-ACCOUNT-SUBJECT-DESIGN.md)
+- [→ PHASE-7-ACCOUNT-SUBJECT 测试报告](./PHASE-7-ACCOUNT-SUBJECT-TEST-REPORT.md)

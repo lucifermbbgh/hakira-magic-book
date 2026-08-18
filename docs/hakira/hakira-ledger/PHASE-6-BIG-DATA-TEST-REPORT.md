@@ -67,3 +67,11 @@ Phase 6 大数据分析层基建完成：Flink + Spark 集群搭建成功，Spar
 | yarn 集成 | 按用户指示搁置，standalone 模式足够 |
 | 客户端 API 提交 | 后续用 flink/spark 服务客户端 API 替代手动提交 |
 | Flink CDC | 进阶方案（需开 MySQL binlog），当前 JDBC 直连 |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-6-BIG-DATA 方案设计](./PHASE-6-BIG-DATA-DESIGN.md)
+- [← PHASE-6-BIG-DATA 详细设计](./PHASE-6-BIG-DATA-DETAILED-DESIGN.md)

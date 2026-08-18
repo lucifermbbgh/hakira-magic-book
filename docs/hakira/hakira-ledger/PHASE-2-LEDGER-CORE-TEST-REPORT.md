@@ -47,3 +47,11 @@
 ## 五、结论
 
 Phase 2 会计复式记账核心业务完成，分录借贷平衡校验、库存入出库 + 快照 + 流水全部可用。本阶段异常以 500 返回，Phase 5 统一为业务错误码。内存存储方案在 Phase 5 替换为 MySQL 持久化。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-2-LEDGER-CORE 方案设计](./PHASE-2-LEDGER-CORE-DESIGN.md)
+- [← PHASE-2-LEDGER-CORE 详细设计](./PHASE-2-LEDGER-CORE-DETAILED-DESIGN.md)

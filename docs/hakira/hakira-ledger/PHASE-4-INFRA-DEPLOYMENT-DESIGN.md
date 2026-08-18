@@ -51,3 +51,11 @@
 - [x] MySQL + Nacos 容器 healthy/启动成功
 - [x] 4 服务 fat jar 可启动
 - [x] 14 项冒烟测试通过（正例 + 反例 + 安全拦截）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-4-INFRA-DEPLOYMENT 详细设计](./PHASE-4-INFRA-DEPLOYMENT-DETAILED-DESIGN.md)
+- [→ PHASE-4-INFRA-DEPLOYMENT 测试报告](./PHASE-4-INFRA-DEPLOYMENT-TEST-REPORT.md)

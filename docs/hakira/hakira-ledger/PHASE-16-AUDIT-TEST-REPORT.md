@@ -35,3 +35,11 @@
 1. **审计日志自动记录**：录入/冲销自动写 audit_log，倒序查询可检索。
 2. **全链路追溯**：凭证头 → 分录行 → 辅助核算维度 → 库存流水，一条 entryId 反查完整链路。
 3. **跨表关联**：库存流水通过 related_voucher_no 关联凭证号，验证了「凭证 → 流水」追溯。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-16-AUDIT 方案设计](./PHASE-16-AUDIT-DESIGN.md)
+- [← PHASE-16-AUDIT 详细设计](./PHASE-16-AUDIT-DETAILED-DESIGN.md)

@@ -46,3 +46,11 @@
 
 2. **辅助核算复用**：COST_ITEM 维度（料工费）与 Phase 10 的 CASH_FLOW 维度（现金流）
    共用 Phase 7 辅助核算框架，验证了框架的多场景扩展能力。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-11-COST-ACCOUNTING 方案设计](./PHASE-11-COST-ACCOUNTING-DESIGN.md)
+- [← PHASE-11-COST-ACCOUNTING 详细设计](./PHASE-11-COST-ACCOUNTING-DETAILED-DESIGN.md)

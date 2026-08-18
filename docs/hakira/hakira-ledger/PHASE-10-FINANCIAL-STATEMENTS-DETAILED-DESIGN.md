@@ -54,3 +54,11 @@
 
 3. **资产负债表读物化值（O(1)）**：报表查询走 `account_balance` 物化值，不扫流水，
    这是 Phase 9 余额物化设计在报表层的收益——报表即时输出无需重算全量流水。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-10-FINANCIAL-STATEMENTS 方案设计](./PHASE-10-FINANCIAL-STATEMENTS-DESIGN.md)
+- [→ PHASE-10-FINANCIAL-STATEMENTS 测试报告](./PHASE-10-FINANCIAL-STATEMENTS-TEST-REPORT.md)

@@ -157,3 +157,11 @@ OPEN ──开始结账──> CLOSING ──完成──> CLOSED
 - **依赖**：Phase 7（科目表 balance_direction/category）、Phase 8（凭证号自动编号、状态机）
 - **产出**：`accounting_period` + `account_balance` 表、ClosingController/Service、结账接口
 - **验证**：见 PHASE-9-PERIOD-END-CLOSING-TEST-REPORT.md
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-9-PERIOD-END-CLOSING 详细设计](./PHASE-9-PERIOD-END-CLOSING-DETAILED-DESIGN.md)
+- [→ PHASE-9-PERIOD-END-CLOSING 测试报告](./PHASE-9-PERIOD-END-CLOSING-TEST-REPORT.md)

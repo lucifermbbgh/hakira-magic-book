@@ -45,3 +45,11 @@
 3. **料工费依赖辅助核算**：成本项目区分完全靠 COST_ITEM 维度，若无维度则无法
    区分料工费——再次验证 Phase 7 辅助核算框架的扩展性（现金流量表用 CASH_FLOW，
    成本核算用 COST_ITEM，同一框架复用）。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-11-COST-ACCOUNTING 方案设计](./PHASE-11-COST-ACCOUNTING-DESIGN.md)
+- [→ PHASE-11-COST-ACCOUNTING 测试报告](./PHASE-11-COST-ACCOUNTING-TEST-REPORT.md)

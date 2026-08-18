@@ -531,3 +531,11 @@ python -m src.main
 | PyCharm 终端 Ctrl+C 无法中断 | SIGINT 无法送达 asyncio 进程 | 在原生 Windows Terminal / PowerShell 中运行 |
 | ~~Realtek DSP 降噪~~（误判） | 实为 Silero VAD context 前缀缺失 | 已修复（`8e37cb2`），概率 0.002→1.0 |
 | 匿名下载限速 | 无 HF_TOKEN 时 small 模型下载 9 分钟 | 设置 `$env:HF_TOKEN` |
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-2-STT 方案设计](./PHASE-2-STT-DESIGN.md)
+- [← PHASE-2-STT 详细设计](./PHASE-2-STT-DETAILED-DESIGN.md)

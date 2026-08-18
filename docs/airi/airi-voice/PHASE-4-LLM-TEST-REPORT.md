@@ -551,3 +551,11 @@ python -m src.main
 
 - **Phase 1 VAD**：已解决（context 前缀 bug 修复，`8e37cb2`；真实语音概率恢复正常）
 - **全链路端到端**：待 VAD 阻塞解决后执行（步骤 7）
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-4-LLM 方案设计](./PHASE-4-LLM-DESIGN.md)
+- [← PHASE-4-LLM 详细设计](./PHASE-4-LLM-DETAILED-DESIGN.md)

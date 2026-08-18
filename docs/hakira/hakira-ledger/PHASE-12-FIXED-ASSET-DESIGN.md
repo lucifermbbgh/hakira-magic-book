@@ -93,3 +93,11 @@
 
 见 PHASE-12-FIXED-ASSET-TEST-REPORT.md：登记资产 → 折旧计提（直线法/双倍余额递减）
 → 资产处置，验证累计折旧/净值更新 + 折旧/处置凭证。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-12-FIXED-ASSET 详细设计](./PHASE-12-FIXED-ASSET-DETAILED-DESIGN.md)
+- [→ PHASE-12-FIXED-ASSET 测试报告](./PHASE-12-FIXED-ASSET-TEST-REPORT.md)

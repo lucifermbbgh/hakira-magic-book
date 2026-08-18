@@ -47,3 +47,11 @@
 ## 五、结论
 
 Phase 5 三步优化完成：业务错误码统一返回、BCrypt 密码哈希、内存存储换 MySQL 分区表（含乐观锁 + 科目校验）。9 项验证全通过，重启后数据持久化生效，为 Phase 6 大数据分析提供了 DB 数据源。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-5-PERSISTENCE-OPTIMIZATION 方案设计](./PHASE-5-PERSISTENCE-OPTIMIZATION-DESIGN.md)
+- [← PHASE-5-PERSISTENCE-OPTIMIZATION 详细设计](./PHASE-5-PERSISTENCE-OPTIMIZATION-DETAILED-DESIGN.md)

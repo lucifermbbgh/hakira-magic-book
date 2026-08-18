@@ -491,3 +491,11 @@ Phase 1 实现:
 ---
 
 > **下一步**: 完成设计文档审查后，开始 Step 1 项目脚手架搭建。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-1-VAD 详细设计](./PHASE-1-VAD-DETAILED-DESIGN.md)
+- [→ PHASE-1-VAD 测试报告](./PHASE-1-VAD-TEST-REPORT.md)

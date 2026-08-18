@@ -49,3 +49,11 @@
 1. **账龄分段正确**：87 天→60-90 段、51 天→30-60 段、106 天→90+ 段，边界判断准确。
 2. **超龄预警**：90 天以上应收自动标记 overdue，汇总 totalOverdue 供催收。
 3. **应收/应付方向区分**：应收净额=借−贷、应付净额=贷−借，方向正确。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-13-AGING 方案设计](./PHASE-13-AGING-DESIGN.md)
+- [← PHASE-13-AGING 详细设计](./PHASE-13-AGING-DETAILED-DESIGN.md)

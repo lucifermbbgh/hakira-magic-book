@@ -72,3 +72,11 @@
 
 见 PHASE-15-BUDGET-TEST-REPORT.md：编制费用/收入预算 → 录入实际分录 →
 执行监控（差异计算）→ 差异分析（超支标识）。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [→ PHASE-15-BUDGET 详细设计](./PHASE-15-BUDGET-DETAILED-DESIGN.md)
+- [→ PHASE-15-BUDGET 测试报告](./PHASE-15-BUDGET-TEST-REPORT.md)

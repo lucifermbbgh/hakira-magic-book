@@ -47,3 +47,11 @@
 
 3. **处置清理凭证**：借 累计折旧 + 借 营业外支出（净值）= 贷 固定资产（原值），
    借贷平衡，状态置 DISPOSED。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-12-FIXED-ASSET 方案设计](./PHASE-12-FIXED-ASSET-DESIGN.md)
+- [← PHASE-12-FIXED-ASSET 详细设计](./PHASE-12-FIXED-ASSET-DETAILED-DESIGN.md)

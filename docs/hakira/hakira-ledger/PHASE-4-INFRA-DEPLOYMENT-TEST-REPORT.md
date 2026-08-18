@@ -214,3 +214,11 @@
 ## 八、结论
 
 Phase 4 基础设施部署完成，14 项冒烟测试全通过，核心链路（登录→JWT→分录→库存）打通。遗留的明文密码（问题 8）、500 异常（问题 9/10 相关）、内存存储（问题 5 相关）三类问题，已在 Phase 5 全部解决。
+
+---
+
+## 🔗 相关文档
+
+<!-- lineage-auto -->
+- [← PHASE-4-INFRA-DEPLOYMENT 方案设计](./PHASE-4-INFRA-DEPLOYMENT-DESIGN.md)
+- [← PHASE-4-INFRA-DEPLOYMENT 详细设计](./PHASE-4-INFRA-DEPLOYMENT-DETAILED-DESIGN.md)
